@@ -1,5 +1,5 @@
 # Tortoise_Survival_MS
-This repository contains R code and data for replication of the analysis used in the Endangered Species Research manuscript 'An integrated model improves inferences about survival in the Mojave desert tortoise'
+This repository contains R code and data for replication of the analysis used in the Endangered Species Research manuscript Hromada et al., (in review) 'An integrated model improves inferences about survival in the Mojave desert tortoise'
 
 There are five files provided that are used to set up and run the JAGS models: 
 
