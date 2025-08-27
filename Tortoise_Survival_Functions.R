@@ -762,7 +762,6 @@ WriteIMFileForJags = function(){
 
 RunJags <- function(dfj, nits = 30000, burn = 10000){ #, filename ="DT_IPM_%sxxx.RData"){
   
-  # KTS: changed a few things for debugging- can revert when debugged!
   # system.time(
   mod <- jagsUI(
     data = dfj$data.for.bugs,
